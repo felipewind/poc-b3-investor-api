@@ -62,7 +62,7 @@ You will receive one access package in the email you informed.
 Execute the following command to generate the key store file (b3_api.jks):
 
 ```
-keytool -importkeystore -srckeystore 42451170000132.p12 -srcstoretype pkcs12 -srcstorepass ABCDEF -destkeystore b3_api.jks -deststoretype jks -deststorepass KKSAWH
+keytool -importkeystore -srckeystore 42451170000132.p12 -srcstoretype pkcs12 -srcstorepass ABCDEF -destkeystore b3_api.jks -deststoretype jks -deststorepass ABCDEF
 ```
 
 These parameters were received in your access package:
