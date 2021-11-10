@@ -1,5 +1,5 @@
 # poc-b3-investor-api
-POC of APIs from B3 - Investor - Nova Área Logada
+POC of APIs from B3 - Investor - New Logged Area/Nova Área Logada
 
 [B3 API Documentation](https://developers.b3.com.br/apis-br)
 - At the moment, this documentation is only available on Portuguese.
