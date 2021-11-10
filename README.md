@@ -7,6 +7,7 @@ POC of APIs from B3 - Investor - Nova Área Logada
 The objective of this POC is to execute the healthcheck endpoint of B3 investor certification environment.
 
 In this POC you will find example to:
+- Consume one endpoint with two-way SSL connections;
 - Generate Trust Store in a Java Key Store (JKS) format from one HTTPS endpoint;
 - Generate Key Store in a JKS format from PFX (P12) file;
 - Consume HTTP with Microprofile REST Client using:
